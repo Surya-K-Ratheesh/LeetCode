@@ -17,3 +17,4 @@ def min_time_to_visit_all_points(points):
 
 if __name__ == '__main__':
     main()
+#

@@ -35,3 +35,4 @@ def smaller_than_current(nums):
 
 if __name__ == '__main__':
     main()
+#
